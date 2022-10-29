@@ -1,6 +1,6 @@
 # 동글동글 for 카카오톡 (Dongledongle for KakaoTalk)
 
-사용 방법은 [여기](https://m.blog.naver.com/sauce2011/222913432446) 참고하세요.
+사용 방법은 [여기](https://m.blog.naver.com/sauce2011/222913432446) 참고하세요. (Press [here](https://m.blog.naver.com/sauce2011/222913432446) to see the tutorial.)
 
 By SAUCE COMPANY
 
