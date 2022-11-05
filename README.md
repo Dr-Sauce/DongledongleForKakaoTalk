@@ -1,10 +1,10 @@
 # 동글동글 for 카카오톡 (Dongledongle for KakaoTalk)
 
-프로필 사진을 배경 사진에 맞춰서 잘라서 존재하지 않는 것처럼 만들어 줍니다. (Edit your KakaoTalk profile picture like it doesn't exist.)
+프로필 사진을 배경 사진에 맞춰서 잘라서 존재하지 않는 것처럼 만들어 줍니다. (Make your KakaoTalk profile picture look like it doesn't exist.)
 
 By SAUCE COMPANY
 
-[![00DB8D26-73A8-415D-A625-835A9A35A734](https://user-images.githubusercontent.com/82555878/200119889-9850c3d0-2a82-45cb-8cdc-001849ce4f31.png)](https://m.blog.naver.com/saucecompany_/222913432446)
+[![B40DC3EA-7BAE-477F-AD3C-AA5A0F04E298](https://user-images.githubusercontent.com/82555878/200120083-da7c199e-eb5e-4a59-ba25-2381ae84e035.png)](https://m.blog.naver.com/saucecompany_/222913432446)
 
 # 영상
 
