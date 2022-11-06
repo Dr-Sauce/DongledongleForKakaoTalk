@@ -1,6 +1,6 @@
 # 동글동글 for 카카오톡 (Dongledongle for KakaoTalk)
 
-프로필 사진을 배경 사진에 맞춰서 잘라서 존재하지 않는 것처럼 만들어 줍니다. (Make your KakaoTalk profile picture look like it doesn't exist.)
+프로필 사진을 배경 사진에 맞춰서 잘라서 존재하지 않는 것처럼 만들어 주는 단축어 (Make your KakaoTalk profile picture look like it doesn't exist.)
 
 자세한 설명은 아래 링크를 참고하세요.
 
