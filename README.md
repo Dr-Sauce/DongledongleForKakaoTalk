@@ -2,7 +2,7 @@
 
 카카오톡 프로필이 없는 것처럼 만들어 줍니다. (Make your KakaoTalk profile picture look like it doesn't exist.)
 
-자세한 설명은 아래 링크를 참고하세요.
+자세한 설명은 아래 링크를 참고하세요. (Check the link below for insturctions.)
 
 By SAUCE COMPANY
 
