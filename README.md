@@ -12,8 +12,6 @@ By SAUCE COMPANY
 
 https://user-images.githubusercontent.com/82555878/200119067-47a88ee2-4523-4efe-a1ea-4085ce1ec3ee.mp4
 
-<iframe width="1280" height="720" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=877B05EAE5D0F4630963DBCEB5D3A388C5A8&outKey=V12759fd720addd6cb5a9994d9e29bba102c3588b9d82e1a97ae6994d9e29bba102c3" frameborder="no" scrolling="no" title="NaverVideo" allow="autoplay; gyroscope; accelerometer; encrypted-media" allowfullscreen></iframe>
-
 # Q&A
 
 **○ 기종에 따라서 프로필 사진이 이상하게 뜹니다.**
