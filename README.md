@@ -19,6 +19,6 @@ https://user-images.githubusercontent.com/82555878/200119067-47a88ee2-4523-4efe-
 
 기종마다 해상도가 다르기 때문에 안 맞게 보일 수 있습니다. 멀티 프로필을 활용하면 좋습니다.
 
-**○ Profile picture appears strangely on other devices.**
+**○ Profile picture appears weird on other devices.**
 
 Devices have different resolutions so it is normal to see it like that on other devices. Try using Multi Profile to improve the problem a bit.
