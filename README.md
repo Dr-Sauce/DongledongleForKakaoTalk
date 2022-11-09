@@ -24,4 +24,6 @@ Devices have different resolutions so it is normal to see it like that on other 
 
 # Source:
 
-[u/KurokoNB](https://www.reddit.com/user/KurokoNB) ([Quick filter])(https://www.reddit.com/r/shortcuts/comments/9q3vvc/apply_a_filter_to_an_image/e86e4iv/)
+[u/KurokoNB](https://www.reddit.com/user/KurokoNB) ([Quick filter](https://www.reddit.com/r/shortcuts/comments/9q3vvc/apply_a_filter_to_an_image/e86e4iv/))
+
+[u/brnmbrns](https://www.reddit.com/user/brnmbrns) ([Device resolution](https://www.reddit.com/r/shortcuts/comments/si3cso/comment/hv6k28p/))
