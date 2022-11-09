@@ -1,4 +1,4 @@
-# 동글동글 for 카카오톡 (Dongledongle for KakaoTalk)
+# 동글동글 for KakaoTalk (Dongledongle for 카카오톡)
 
 카카오톡 프로필이 없는 것처럼 만들어 줍니다. (Make your KakaoTalk profile picture look like it doesn't exist.)
 
