@@ -8,6 +8,10 @@ By SAUCE COMPANY
 
 [![B40DC3EA-7BAE-477F-AD3C-AA5A0F04E298](https://user-images.githubusercontent.com/82555878/200120083-da7c199e-eb5e-4a59-ba25-2381ae84e035.png)](https://m.blog.naver.com/saucecompany_/222913432446)
 
+# 영상
+
+https://user-images.githubusercontent.com/82555878/200119067-47a88ee2-4523-4efe-a1ea-4085ce1ec3ee.mp4
+
 # 동글동글 Preview
 
 새로운 툴을 소개합니다. **동글동글 for KakaoTalk**을 사용하기 전에 완성본을 미리 확인해 볼 수 있는 툴입니다.
@@ -15,10 +19,6 @@ By SAUCE COMPANY
 https://www.icloud.com/shortcuts/7c8671a3778243eca0e12cde6acc099a
 
 ![1EE23126-1B3C-4C73-B64D-D842B93B198D](https://user-images.githubusercontent.com/82555878/222329799-beb8e4e7-51fc-43ef-b1bc-faacaf9715d3.png)
-
-# 영상
-
-https://user-images.githubusercontent.com/82555878/200119067-47a88ee2-4523-4efe-a1ea-4085ce1ec3ee.mp4
 
 # Q&A
 
