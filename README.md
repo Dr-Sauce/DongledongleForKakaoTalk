@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/82555878/200119067-47a88ee2-4523-4efe-
 
 **○ Profile picture appears weird on other devices.**
 
-Devices have different resolutions so it is normal to see it like that on other devices. Try using Multi Profile to improve the problem a bit.
+Devices have different resolutions so it is normal to see it like that. Try using Multi Profile to improve the problem a bit.
 
 # 동글동글 Preview
 
