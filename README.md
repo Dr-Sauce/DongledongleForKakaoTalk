@@ -12,14 +12,6 @@ By SAUCE COMPANY
 
 https://user-images.githubusercontent.com/82555878/200119067-47a88ee2-4523-4efe-a1ea-4085ce1ec3ee.mp4
 
-# 동글동글 Preview
-
-새로운 툴을 소개합니다. **동글동글 for KakaoTalk**을 사용하기 전에 완성본을 미리 확인해 볼 수 있는 툴입니다.
-
-https://www.icloud.com/shortcuts/7c8671a3778243eca0e12cde6acc099a
-
-![1EE23126-1B3C-4C73-B64D-D842B93B198D](https://user-images.githubusercontent.com/82555878/222329799-beb8e4e7-51fc-43ef-b1bc-faacaf9715d3.png)
-
 # Q&A
 
 **○ 기종에 따라서 프로필 사진이 이상하게 뜹니다.**
@@ -29,6 +21,14 @@ https://www.icloud.com/shortcuts/7c8671a3778243eca0e12cde6acc099a
 **○ Profile picture appears weird on other devices.**
 
 Devices have different resolutions so it is normal to see it like that on other devices. Try using Multi Profile to improve the problem a bit.
+
+# 동글동글 Preview
+
+새로운 툴을 소개합니다. **동글동글 for KakaoTalk**을 사용하기 전에 완성본을 미리 확인해 볼 수 있는 툴입니다.
+
+https://www.icloud.com/shortcuts/7c8671a3778243eca0e12cde6acc099a
+
+![1EE23126-1B3C-4C73-B64D-D842B93B198D](https://user-images.githubusercontent.com/82555878/222329799-beb8e4e7-51fc-43ef-b1bc-faacaf9715d3.png)
 
 # Source:
 
