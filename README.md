@@ -36,4 +36,4 @@ https://www.icloud.com/shortcuts/7c8671a3778243eca0e12cde6acc099a
 
 [Device resolution](https://www.reddit.com/r/shortcuts/comments/si3cso/comment/hv6k28p/) ([u/brnmbrns](https://www.reddit.com/user/brnmbrns))
 
-[Detect System Language JS](https://www.reddit.com/r/shortcuts/comments/c0bkad/comment/er4zrxb/) ([u/MMP0](https://www.reddit.com/user/))
+[Detect System Language JS](https://www.reddit.com/r/shortcuts/comments/c0bkad/comment/er4zrxb/) ([u/MMP0](https://www.reddit.com/user/MMP0))
