@@ -1,8 +1,6 @@
 # 동글동글 for KakaoTalk
 
-카카오톡 프로필이 없는 것처럼 만들어 줍니다. (Make your KakaoTalk profile picture look like it doesn't exist)
-
-자세한 설명은 아래 링크를 참고하세요. (Check the link below for instructions)
+카카오톡 프로필 사진이 존재하지 않는 것처럼 하기
 
 By SAUCE COMPANY
 
@@ -14,9 +12,9 @@ https://user-images.githubusercontent.com/82555878/200119067-47a88ee2-4523-4efe-
 
 # Q&A
 
-**○ 기종에 따라서 프로필 사진이 이상하게 뜹니다. (Profile picture appears weird on other devices)**
+**○ 기종에 따라서 프로필 사진이 이상하게 뜹니다.**
 
-기종마다 해상도가 다르기 때문에 안 맞게 보일 수 있습니다. 멀티 프로필을 활용하면 좋습니다. (Devices have different resolutions so it is normal to see it like that. Try using Multi Profile to improve the problem a bit)
+기종마다 해상도가 다르기 때문에 안 맞게 보일 수 있습니다. 멀티 프로필을 활용하면 좋습니다.
 
 # 동글동글 Preview
 
