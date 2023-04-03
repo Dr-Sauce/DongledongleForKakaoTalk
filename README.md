@@ -1,6 +1,6 @@
 # 동글동글 for KakaoTalk
 
-카카오톡 프로필 사진이 존재하지 않는 것처럼 하기
+카카오톡 프로필이 없는 것처럼 해주는 단축어
 
 By SAUCE COMPANY
 
