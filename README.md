@@ -4,17 +4,12 @@
 
 By SAUCE COMPANY
 
-[![B40DC3EA-7BAE-477F-AD3C-AA5A0F04E298](https://user-images.githubusercontent.com/82555878/200120083-da7c199e-eb5e-4a59-ba25-2381ae84e035.png)](https://m.blog.naver.com/saucecompany_/222913432446)
+[<img width="200" alt="${f}" src="https://github.com/Dr-Sauce/DongledongleForKakaoTalk/assets/82555878/578af272-2f7f-4ed5-967c-369937f8a998">
+](https://m.blog.naver.com/saucecompany_/222913432446)
 
 # 영상
 
 https://user-images.githubusercontent.com/82555878/200119067-47a88ee2-4523-4efe-a1ea-4085ce1ec3ee.mp4
-
-# Q&A
-
-**○ 기종에 따라서 프로필 사진이 이상하게 뜹니다.**
-
-기종마다 해상도가 다르기 때문에 안 맞게 보일 수 있습니다. 멀티 프로필을 활용하면 좋습니다.
 
 # 동글동글 Preview
 
@@ -22,7 +17,13 @@ https://user-images.githubusercontent.com/82555878/200119067-47a88ee2-4523-4efe-
 
 https://www.icloud.com/shortcuts/9b5e439fa5674467aac8b5d93a90aec6
 
-![1EE23126-1B3C-4C73-B64D-D842B93B198D](https://user-images.githubusercontent.com/82555878/222329799-beb8e4e7-51fc-43ef-b1bc-faacaf9715d3.png)
+![222329799-beb8e4e7-51fc-43ef-b1bc-faacaf9715d3](https://github.com/Dr-Sauce/DongledongleForKakaoTalk/assets/82555878/120d7c61-64ef-4cd8-bd7d-82f0531943fd)
+
+# Q&A
+
+**○ 기종에 따라서 프로필 사진이 이상하게 뜹니다.**
+
+기종마다 해상도가 다르기 때문에 안 맞게 보일 수 있습니다. 멀티 프로필을 활용하면 좋습니다.
 
 # Source:
 
