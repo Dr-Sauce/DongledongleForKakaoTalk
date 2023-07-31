@@ -1,8 +1,6 @@
 # 동글동글 for KakaoTalk
 
-카카오톡 프로필이 없는 것처럼 해주는 단축어
-
-By SAUCE COMPANY
+카카오톡 프로필 없는 것처럼 만들기
 
 [<img width="200" alt="${f}" src="https://github.com/Dr-Sauce/DongledongleForKakaoTalk/assets/82555878/578af272-2f7f-4ed5-967c-369937f8a998">
 ](https://m.blog.naver.com/saucecompany_/222913432446)
