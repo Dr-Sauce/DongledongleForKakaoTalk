@@ -1,6 +1,6 @@
 # 동글동글 for KakaoTalk
 
-카카오톡 프로필 없는 것처럼 만들기
+Hide KakaoTalk profile picture
 
 ![image2](https://github.com/Dr-Sauce/DongledongleForKakaoTalk/assets/82555878/082f87e3-eb7e-4d40-8cfb-c4bb6e29e76c)
 
