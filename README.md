@@ -1,6 +1,6 @@
 # 동글동글 for KakaoTalk
 
-Hide KakaoTalk profile picture
+Make KakaoTalk profile picture invisible.
 
 ![image2](https://github.com/Dr-Sauce/DongledongleForKakaoTalk/assets/82555878/082f87e3-eb7e-4d40-8cfb-c4bb6e29e76c)
 
