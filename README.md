@@ -14,4 +14,4 @@ https://user-images.githubusercontent.com/82555878/200119067-47a88ee2-4523-4efe-
 
 [Device resolution](https://www.reddit.com/r/shortcuts/comments/si3cso/comment/hv6k28p/) ([u/brnmbrns](https://www.reddit.com/user/brnmbrns))
 
-[Detect System Language JS](https://www.reddit.com/r/shortcuts/comments/c0bkad/comment/er4zrxb/) ([u/MMP0](https://www.reddit.com/user/MMP0))
+[Shortcut Updater](https://github.com/dr-sauce/shortcutupdater) ([Dr-Sauce](https://github.com/dr-sauce))
