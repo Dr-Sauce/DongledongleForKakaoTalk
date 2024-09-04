@@ -2,6 +2,8 @@
 
 Make KakaoTalk profile picture invisible.
 
+Designed to work on iOS 15. (But also works on other versions)
+
 ![image2](https://github.com/Dr-Sauce/DongledongleForKakaoTalk/assets/82555878/082f87e3-eb7e-4d40-8cfb-c4bb6e29e76c)
 
 # 영상
